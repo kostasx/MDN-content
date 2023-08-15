@@ -153,7 +153,7 @@ Let's look at some examples to make this clearer.
       <td>
         <pre>/en-US/docs/Learn</pre>
         <p>
-          This is the most common use case for an absolute URL within an HTML
+          This is the most common use case for a relative URL within an HTML
           document. The browser will use the same protocol and the same domain
           name as the one used to load the document hosting that URL.
           <strong>Note:</strong>
